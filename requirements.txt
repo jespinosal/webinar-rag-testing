@@ -1,0 +1,8 @@
+pandas
+notebook
+tavily-python
+unstructured
+langchain-openai
+langchain-community
+langchain-core
+ragas
